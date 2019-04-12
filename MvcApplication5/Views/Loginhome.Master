@@ -1,0 +1,245 @@
+﻿<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>HeartPoint</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
+
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="../Content/Kreo10/css/base.css">
+   <link rel="stylesheet" href="../Content/Kreo10/css/vendor.min.css">
+   <link rel="stylesheet" href="../Content/Kreo10/css/main.css">     
+
+   <!-- script
+   ================================================== -->
+	<script src="../Content/Kreo10/js/modernizr.js"></script>
+
+   <!-- favicons
+	================================================== -->
+	<link rel="shortcut icon" href="../Content/Kreo10/favicon.png" >
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+
+     <form id="form1" runat="server">
+
+	<!-- header
+   ================================================== -->
+   <header id="main-header">
+
+   	<div class="row">
+
+	      <div class="logo">
+	         <a href="#"></a>
+	      </div>
+
+	      <nav id="nav-wrap">         
+	         
+	         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">
+	         	<span class="menu-icon">Menu</span>
+	         </a>
+         	<a class="mobile-btn" href="#" title="Hide navigation">
+         		<span class="menu-icon">Menu</span>
+         	</a>            
+
+	         <%--<ul id="nav" class="nav">
+	            <li><a class="smoothscroll" href="#hero">Home.</a></li>
+		         <li class="current"><a class="smoothscroll" href="#portfolio">Works.</a></li>
+	            <li><a class="smoothscroll" href="#services">Services.</a></li>
+	            <li><a class="smoothscroll" href="#about">About.</a></li>
+	            <li><a class="smoothscroll" href="#contact">Contact.</a></li>
+	         </ul> --%><!-- end #nav -->
+
+	      </nav> <!-- end #nav-wrap -->
+
+	      <%--<ul class="header-social">
+	        	<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+	        	<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+	        	<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+	      </ul>      --%>
+
+	   </div>
+
+   </header> <!-- end header -->
+
+
+   <!-- homepage hero
+   ================================================== -->
+      <section id="hero">	
+   	  
+		<div class="row hero-content">
+
+			<div class="twelve columns hero-container">
+
+			   <!-- hero-slider start-->
+			   <div id="hero-slider" class="flexslider">
+
+				   <ul class="slides">
+
+					   <!-- slide -->
+					   <li>
+						   <div class="flex-caption">
+								<h1 class="">Coronory heart disease killing nearly 380,000 people annually.
+								</h1>	
+									
+								<h3 class="">Predict the possibility of getting heart attack from here and live a tension free life.</h3>				   
+							</div>						
+					   </li>
+
+					   <!-- slide -->
+					   <li>						
+							<div class="flex-caption">
+								<h1 class="">There are an estimated 45 million patients of coronary artery disease in India.
+								</h1>
+
+								<h3 class="">Findout the chance of getting cardiac problems in future on the basis of your diagnosis report</h3>			   
+							</div>					
+					   </li>
+
+					   <!-- slide -->
+					   <li>
+						   <div class="flex-caption">
+								<h1 class="">Heart disease causes<a class="smoothscroll"> 1 in 3 women’s deaths</a> each year<a class="smoothscroll"></a>
+								</h1>
+
+								<h3 class="">Consult our Doctors on the basis of prediction results and have better care about your Heart</h3>			   
+							</div>
+					   </li>					              
+
+				   </ul>
+
+			   </div> <!-- end hero-slider -->				   
+
+	      </div> <!-- end twelve columns-->
+
+		</div> <!-- end row -->	
+
+		<%--<div id="more">
+		      <a class="smoothscroll" href="#services">More About Us<i class="fa fa-angle-down"></i></a>
+		</div> --%>	
+
+   </section>  <!-- end homepage hero -->
+
+
+
+   <!-- portfolio
+   ================================================== -->
+         <!-- end portfolio -->
+
+
+   <!-- Services Section
+   ================================================== -->
+    <!-- end services -->
+
+
+   <!-- About Section
+   ================================================== -->
+    <!-- end about -->  
+
+
+   <!-- Testimonials Section
+   ================================================== -->
+   <section id="testimonials">
+
+      <div class="row content flex-container">
+    
+          <!-- end flexslider -->         
+        
+
+          
+
+          
+          <div>
+       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+
+
+
+      </div> <!-- end row -->
+
+   </section> <!-- end testimonials section -->  
+
+
+   <!-- contact
+   ================================================== -->
+     <!-- end contact -->
+
+
+   <!-- Footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">  
+
+      	<div class="twelve columns content group">
+      		
+				<ul class="social-links">
+               <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+               <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+               <li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>               
+               <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+               <li><a href="#"><i class="fa fa-vimeo-square"></i></a></li>
+               <li><a href="#"><i class="fa fa-flickr"></i></a></li>               
+               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>
+
+            <hr />
+
+            <div class="info">
+
+            	<div class="footer-logo"></div>
+
+	            <p>The predicted results are not the final results,it shows the current health of your heart on basis of datasets.Meet your doctor and finalize the results.
+	            </p>	        
+
+	         </div>
+
+      	</div>           
+
+         <ul class="copyright">
+         	<li>&copy; Copyright 2016 Medical Association.</li> 
+         	<%--<li>Design by <a href="http://www.styleshout.com/">Styleshout.</a>.</li>--%>
+         </ul>
+
+         <%--<div id="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#hero">Back to Top<i class="fa fa-angle-up"></i></a>
+         </div>--%>
+
+      </div> <!-- end row -->
+
+   </footer> <!-- end footer -->
+
+   <div id="preloader"> 
+    	<div id="loader"></div>
+   </div> 
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="../Content/Kreo10/js/jquery-1.11.3.min.js"></script>
+   <script src="../Content/Kreo10/js/jquery-migrate-1.2.1.min.js"></script>
+   <script src="../Content/Kreo10/js/jquery.flexslider-min.js"></script>
+   <script src="../Content/Kreo10/js/jquery.waypoints.min.js"></script>
+   <script src="../Content/Kreo10/js/jquery.validate.min.js"></script>
+   <script src="../Content/Kreo10/js/jquery.fittext.js"></script>
+   <script src="../Content/Kreo10/js/jquery.placeholder.min.js"></script>
+   <script src="../Content/Kreo10/js/jquery.magnific-popup.min.js"></script>  
+   <script src="../Content/Kreo10/js/main.js"></script>
+         </form>
+</body>
+
+</html>

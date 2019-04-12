@@ -1,0 +1,74 @@
+c:\users\pc-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\MvcApplication5.dll
+c:\users\pc-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\MvcApplication5.pdb
+c:\users\pc-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.dll
+c:\users\pc-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.pdb
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\HtmlAgilityPack.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\AjaxMin.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.Data.OData.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.Data.Edm.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\System.Spatial.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\AjaxControlToolkit.pdb
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.Data.OData.xml
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\Microsoft.Data.Edm.xml
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\System.Spatial.xml
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\de\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\es\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\fr\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\it\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ja\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ko\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\ru\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\PC-5\documents\visual studio 2010\Projects\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Aravind\Desktop\Heart_desease\MvcApplication5\bin\MvcApplication5.dll
+C:\Users\Aravind\Desktop\Heart_desease\MvcApplication5\bin\MvcApplication5.pdb
+C:\Users\Aravind\Desktop\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.dll
+C:\Users\Aravind\Desktop\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.pdb
+C:\Users\Aravind\Desktop\Heart_desease\MvcApplication5\obj\Debug\MvcApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Aravind\Desktop\nnnn\MvcApplication5\bin\MvcApplication5.dll
+C:\Users\Aravind\Desktop\nnnn\MvcApplication5\bin\MvcApplication5.pdb
+C:\Users\Aravind\Desktop\nnnn\MvcApplication5\obj\Debug\MvcApplication5.dll
+C:\Users\Aravind\Desktop\nnnn\MvcApplication5\obj\Debug\MvcApplication5.pdb
+C:\Users\Aravind\Desktop\Heartdisease_aravind\MvcApplication5\bin\MvcApplication5.dll
+C:\Users\Aravind\Desktop\Heartdisease_aravind\MvcApplication5\bin\MvcApplication5.pdb
+C:\Users\Aravind\Desktop\Heartdisease_aravind\MvcApplication5\obj\Debug\MvcApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Aravind\Desktop\Heartdisease_aravind\MvcApplication5\obj\Debug\MvcApplication5.dll
+C:\Users\Aravind\Desktop\Heartdisease_aravind\MvcApplication5\obj\Debug\MvcApplication5.pdb
